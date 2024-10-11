@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<odoo>
+    <record id="lead_rejection_reason_1" model="lead.rejection.reason">
+        <field name="name">Too Expensive</field>
+    </record>
+    <record id="lead_rejection_reason_2" model="lead.rejection.reason">
+        <field name="name">Not Interested</field>
+    </record>
+    <record id="lead_rejection_reason_3" model="lead.rejection.reason">
+        <field name="name">Already Purchased</field>
+    </record>
+     <record id="lead_rejection_reason_4" model="lead.rejection.reason">
+        <field name="name">Can not be present on meeting</field>
+    </record>
+     <record id="lead_rejection_reason_5" model="lead.rejection.reason">
+        <field name="name">Too cheap</field>
+    </record>
+     <record id="lead_rejection_reason_6" model="lead.rejection.reason">
+        <field name="name">Canceled</field>
+    </record>
+    <record id="lead_rejection_reason_7" model="lead.rejection.reason">
+        <field name="name">In process</field>
+    </record>
+</odoo>
